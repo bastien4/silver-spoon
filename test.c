@@ -1,5 +1,6 @@
 int main(){
   int i;
-  i = 5;
+  i = 15;
+  printf("%d",i);
   return 0;
   }
